@@ -53,6 +53,8 @@
     width: 100%;
     z-index: 100;
     transition: all .3s;
+    background-color: #fff;
+    padding: 0;
 }
 
 .button__nested {
